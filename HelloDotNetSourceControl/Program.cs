@@ -13,6 +13,9 @@ namespace HelloDotNetSourceControl
             DisplayGreeting();
         }
 
+        /// <summary>
+        /// Displays a greeting to the user
+        /// </summary>
         private static void DisplayGreeting()
         {
             Console.WriteLine("Hello World");
