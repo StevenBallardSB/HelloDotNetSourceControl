@@ -1,0 +1,10 @@
+﻿CREATE DATABASE TestDb
+GO
+
+USE TestDb
+GO
+
+CREATE TABLE Test
+(
+	Id	int PRIMARY KEY
+)
